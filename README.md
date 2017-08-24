@@ -38,10 +38,15 @@ The following built-in assertions are modified by this plugin to now use the fun
 * false
 * null
 * undefined
+* NaN
 * exist
 * empty
 * arguments
 * Arguments
+* extensible
+* sealed
+* frozen
+* finite
 
 ## Caveats
 
